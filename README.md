@@ -70,4 +70,4 @@ You will need to have the same environment set up as is for the ksched image des
 * Get the ksched source: `go get github.com/coreos/ksched` (or from the mirror repo `github.com/hasbro17/ksched-mirror`)
 * Generate the proto files by running `proto/genproto.sh` 
 
-
+[To be updated soon] . . .
